@@ -1,8 +1,9 @@
-hacklab-fi
-==========
-font = droid sans, bold
-21:18 < netl> noni, eli droid eik‰ roboto :) sill‰ menn‰‰n
-21:18 < bionik> https://www.google.com/fonts/specimen/Droid+Sans
-21:18 < bionik> (boldina)
+#hacklab-fi
 
-promotional material for http://hacklab.fi
+Promotional material for http://hacklab.fi
+
+##Style Guide
+
+Font in the logo is Droid Sans (bold), https://www.google.com/fonts/specimen/Droid+Sans
+
+We'll use Noto Sans for normal text, https://www.google.com/fonts/specimen/Noto+Sans
