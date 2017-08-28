@@ -1,18 +1,23 @@
 Löysitkö tästä virheen? Tiedot eivät ajan tasalla?
 Laita pull-requestia tai korjaa suoraan masteriin, kumpi vaan!
 
-Päivitetty 13.4.2016
+Päivitetty 28.8.2017
 
 Tämän voi tulostaa mukaan messuille, tapahtumiin ym. cheat sheetiksi, jos tulee kyselyjä asioista, joihin ei osaa vastata.
+
+# Hacklabeja yhteensä Suomessa
+
+* 14 kpl
+* Ensimmäiset perustettu 2010
 
 # Hacklab.fi infopaketti
 
 ###Helsinki Hacklab
-* Oma työtila vuodesta 2010 alkaen, neliöitä nykyisessä 215
+* Oma työtila vuodesta 2010 alkaen, neliöitä nykyisessä 430, joista omaa tilaa n. 350.
 * Katuosoite: Takkatie 18 (takaovi)
 * Huom: Frisbeekaupan rakennus
 * Kaupunginosa: Pitäjänmäki
-* Jäseniä 2016: noin 160-190 ?
+* Jäseniä 2017: noin 300 ?
 * Viikkotapaamiset tiistaisin klo 17 alkaen
 
 ###Tampere Hacklab
@@ -38,7 +43,7 @@ Tämän voi tulostaa mukaan messuille, tapahtumiin ym. cheat sheetiksi, jos tule
 ###Tarlab (Oulu)
 * Yhdistys perustettu 2011, omat tilat
 * Katutosoite: Valtatie 67
-* Huom: alivuorkalaisena Offcoden kellarissa
+* Muuta: alivuorkalaisena Offcoden kellarissa
 
 ###Mikkeli Hacklab
 * Yhdistys perustettu 2015, omat työtilat
@@ -46,22 +51,36 @@ Tämän voi tulostaa mukaan messuille, tapahtumiin ym. cheat sheetiksi, jos tule
 * Viikkotapaamiset joka torstai klo 18 alkaen
 
 ###Tech Club Joensuu
-* Kokoontuu viikottain Karelia-ammattikorkeakoulun Sirkkalan kampuksella keskiviikkoisin klo. 17.00.
-* Katuosoite: Sirkkalantie 12 A
-* Huom: Ensimmäisen kerroksen paja tai 3. kerroksen Tehdas / 3D-lab-tila
+* Kokoontuu viikottain Karelia-ammattikorkeakoulun Wärtsilä-kampuksella (keskiviikkoisin klo. 17.00?).
+* Katuosoite: Kontionkatu
+* Saavat tilansa ammattikorkeakoululta, ei siis aivan täysin itsenäinen hacklab
 
 ###Kuopio Hacklab
-* Aktiivista toimintaa, etsivät omia tiloja.
-* Toimii nykyisin 3D-jampat Oy:n tiloissa (Myllykatu 1-3) tai erikseen mainituissa sijainneissa
+* Omat tilat Kotkankallionkatu 3:ssa
 
 ###Pori Hacklab
 * Toimintaa ja jäseniä on, toimii Satky ry:n kerhona
-* Työtila evakossa 2016 alussa
+* Osoite Otavankatu 3, 28100 Pori. Käynti joenpuoleisesta reunasta parkkipaikan kohdalta.
+* Tapaamisia joka toinen viikko
+
+####Seinäjoki
+* Vielä keräämässä kiinnostuneiden joukkoa
+* Seinäjokelaisten hacklab-toiminnasta kiinnostuneiden kannattaa liittyä kanavalle SjkHacklab @ Freenode
+
+####Lahti
+* Aloittelemassa toimintaansa Ideaverstaan tiloissa
+* Avoimet ovet keskiviikkoisin klo 18:00
+* Osoite Sammonkatu 8 H (sisäänkäynti Kauppakadun puolelta)
+
+####Virrat
+* Odottelee omia tilojaan, toimintaa niiden puuttumisesta huolimatta
+* Yhdistys rekisteröity loppukesällä 2017
+
+####Kouvola
+* Säännöllistä toimintaa kaupunginkirjastolla
+
 
 ###Muut kaupungit
-
-#####Seinäjoki
- * Seinäjokelaisten hacklab-toiminnasta kiinnostuneiden kannattaa liittyä kanavalle SjkHacklab @ Freenode
 
 #####Kajaani
  * Garde-Party ry:n radioamatöörikerhossa on ilmeisesti ollut kiinnostusta aloittaa hacklab-toimintaa. Kaupungissa toimii myös "Hacklab Kajaani ry", joka vaikuttaa aika kuopatulta ja epämääräiseltä.
